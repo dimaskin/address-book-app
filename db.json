@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "firstName": "Дмитрий",
+      "lastName": "Драчёв",
+      "addressLineOne": "nova st",
+      "addressLineTwo": "Msk",
+      "city": "Москва",
+      "country": "Russian Federation",
+      "postalCode": "123234",
+      "phone": "74955807020",
+      "age": "40",
+      "email": "dd@indusoft.ru",
+      "id": 1
+    },
+    {
+      "firstName": "dd",
+      "lastName": "dd",
+      "addressLineOne": "456555 ",
+      "city": "Москва",
+      "country": "Belgium",
+      "postalCode": "456213",
+      "phone": "74955807020",
+      "age": "40",
+      "email": "it@indusoft.ru",
+      "id": 2
+    }
+  ]
+}
